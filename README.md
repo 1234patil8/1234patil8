@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh_patil
 - 👀 I’m interested in android app development using Java
-- 🌱 I’m currently learning android app development using Java
+- 🌱 I’m currently learning Full Stack Development Using JAVA (Course pursuing)
 - 📫 How to reach me
 
 <!---
